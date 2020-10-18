@@ -71,16 +71,17 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefPasha&theme=react&line_height=40&hide=css"/>
     </a>
-</div
-  
-<br/>
-##  🎉 Skills  🎉
+  ##  🎉 Skills  🎉
 - **FrontEnd**: React, Next , Vue
 - **BackEnd**:  Node.js, Express
 - **Mobile**: Android , React Native
 - **Databases**: MongoDB (Mongoose), MySQL
 - **Misc**: Git, Eslint, Prettier, Typescript
 - **Languages**: C++, Java, JavaScript , c# , python
+</div
+  
+<br/>
+
 
 
 --- 
