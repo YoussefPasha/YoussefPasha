@@ -71,13 +71,6 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefPasha&theme=react&line_height=40&hide=css"/>
     </a>
-  ##  🎉 Skills  🎉
-- **FrontEnd**: React, Next , Vue
-- **BackEnd**:  Node.js, Express
-- **Mobile**: Android , React Native
-- **Databases**: MongoDB (Mongoose), MySQL
-- **Misc**: Git, Eslint, Prettier, Typescript
-- **Languages**: C++, Java, JavaScript , c# , python
 </div
   
 <br/>
@@ -91,4 +84,12 @@
 [website]: https://github.com/YoussefPasha/
 [instagram]: https://www.instagram.com/youssefpasha_/
 [linkedin]: https://www.linkedin.com/in/youssef-pasha-95aaba187/
+
+##  🎉 Skills  🎉
+- **FrontEnd**: React, Next , Vue
+- **BackEnd**:  Node.js, Express
+- **Mobile**: Android , React Native
+- **Databases**: MongoDB (Mongoose), MySQL
+- **Misc**: Git, Eslint, Prettier, Typescript
+- **Languages**: C++, Java, JavaScript , c# , python
 
