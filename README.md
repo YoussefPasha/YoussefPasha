@@ -74,6 +74,14 @@
 </div
   
 <br/>
+##  🎉 Skills  🎉
+- **FrontEnd**: React, Next , Vue
+- **BackEnd**:  Node.js, Express
+- **Mobile**: Android , React Native
+- **Databases**: MongoDB (Mongoose), MySQL
+- **Misc**: Git, Eslint, Prettier, Typescript
+- **Languages**: C++, Java, JavaScript , c# , python
+
 
 --- 
 ---
