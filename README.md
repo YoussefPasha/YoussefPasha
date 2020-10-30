@@ -1,4 +1,9 @@
+### Connect with me:
 
+[<img align="left" alt="Ramyy | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:youssefbashafcis@gmail.com)
+[<img align="left" alt="Ramyy | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/youssef-pasha-95aaba187/)
+</br>
+</br>
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
