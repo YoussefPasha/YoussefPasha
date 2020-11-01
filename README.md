@@ -13,27 +13,10 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefPasha&layout=compact"/>
     </a>
 </div
-  
-<br/>
- 
----
-
 
 [website]: youssefbashafcis@gmail.com/
 [instagram]: https://www.instagram.com/youssefpasha_/
 [linkedin]: https://www.linkedin.com/in/youssef-pasha-95aaba187/
-
-##  🎉 Skills  🎉
-- **FrontEnd**: React, Next , Vue
-- **BackEnd**:  Node.js, Express
-- **Mobile**: Android , React Native
-- **Databases**: MongoDB (Mongoose), MySQL
-- **Misc**: Git, Eslint, Prettier, Typescript
-- **Languages**: C++, Java, JavaScript , c# , python
-</br>
-</br>
-</br>
-</br>
 
 ## Connect with me:
 
