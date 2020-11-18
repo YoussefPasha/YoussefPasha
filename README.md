@@ -4,14 +4,14 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefPasha&show_icons=true&hide=stars&include_all_commits=true&count_private=true&line_height=40" />
+      <img align="center" src="github-readme-stats.vercel.app/api?username=YoussefPasha&show_icons=true&theme=dark&locale=en" alt="YoussefPasha" />
     </a>
 
   </div>
   <div align="center">
      </br></br>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefPasha&layout=compact"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefPasha&show_icons=true&theme=dark&locale=en&layout=compact"/>
     </a>
 </div
 
