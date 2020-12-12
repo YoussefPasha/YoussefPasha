@@ -1,4 +1,5 @@
-  <h1 align="center">Hi 👋, I'm YP</h1>
+  <h1 align="center">Hi 👋, I'm YP</h1>  
+</a>
 <h3 align="center">Software Engineer from Egypt</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YoussefPasha&theme=onedark" alt="YoussefPasha" /></a> </p>
@@ -24,4 +25,5 @@
 
 
 [<img align="left" alt="Youssef | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:youssefbashafcis@gmail.com)
+[<img align="left" alt="Youssef | email" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2534/2534204.svg" />](https://dreamy-hugle-b0dd3c.netlify.app/)
 [<img align="left" alt="Youssef | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/youssef-pasha-95aaba187/)
