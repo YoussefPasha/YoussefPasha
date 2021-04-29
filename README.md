@@ -26,3 +26,6 @@
 
 [<img align="left" alt="Youssef | email" src="https://img.icons8.com/fluent/22/000000/gmail.png" />](mailto:youssefbashafcis@gmail.com)
 [<img align="left" alt="Youssef | Linkedin" src="https://img.icons8.com/fluent/22/000000/linkedin.png"/>](https://www.linkedin.com/in/youssef-pasha-95aaba187/)
+[<img align="left" alt="Youssef | Facebook"  src="https://img.icons8.com/color/22/000000/facebook-new.png"/>](https://www.facebook.com/PashaMessages)
+[<img align="left" alt="Youssef | twitter"   src="https://img.icons8.com/fluent/22/000000/twitter.png"/>](https://twitter.com/YoussefPasha8)
+
