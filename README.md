@@ -25,4 +25,4 @@
 
 
 [<img align="left" alt="Youssef | email" src="https://img.icons8.com/fluent/22/000000/gmail.png" />](mailto:youssefbashafcis@gmail.com)
-[<img align="left" alt="Youssef | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/youssef-pasha-95aaba187/)
+[<img align="left" alt="Youssef | Linkedin" src="https://img.icons8.com/fluent/22/000000/linkedin.png"/>](https://www.linkedin.com/in/youssef-pasha-95aaba187/)
