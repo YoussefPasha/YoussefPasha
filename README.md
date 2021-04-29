@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm <a href="https://profile.codersrank.io/user/youssefpasha/">YP<a/></h1>  
+<h1 align="center">Hi 👋, I'm <a href="https://profile.codersrank.io/user/youssefpasha/">YP<a/></h1>  
 </a>
 <h3 align="center">Software Engineer from Egypt</h3>
 
@@ -19,10 +19,7 @@
     </a>
 </div
 
-[website]: youssefbashafcis@gmail.com/
-[instagram]: https://www.instagram.com/youssefpasha_/
-[linkedin]: https://www.linkedin.com/in/youssef-pasha-95aaba187/
-
+<h3 align="center"> Contact 🚀</h2>
 
 [<img align="left" alt="Youssef | email" src="https://img.icons8.com/fluent/22/000000/gmail.png" />](mailto:youssefbashafcis@gmail.com)
 [<img align="left" alt="Youssef | Linkedin" src="https://img.icons8.com/fluent/22/000000/linkedin.png"/>](https://www.linkedin.com/in/youssef-pasha-95aaba187/)
