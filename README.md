@@ -15,12 +15,6 @@
     </div>
 
   <div align="center">
-    <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=YoussefPasha" />
-  </a>
-  </div>
-
-  <div align="center">
      </br></br>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefPasha&show_icons=true&theme=dark&locale=en&layout=compact"/>
