@@ -12,6 +12,12 @@
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefPasha&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=dark&line_height=40" />
     </a>
+  
+  <div align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YoussefPasha" >
+  </a>
+</div>
 
   </div>
   <div align="center">
@@ -25,7 +31,6 @@
   
 <h1 align="center"> Contact 🚀</h2>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YoussefPasha)](https://github.com/anuraghazra/github-readme-stats)
 [<img align="left" alt="Youssef | email" src="https://img.icons8.com/fluent/22/000000/gmail.png" />](mailto:youssefbashafcis@gmail.com)
 [<img align="left" alt="Youssef | Linkedin" src="https://img.icons8.com/fluent/22/000000/linkedin.png"/>](https://www.linkedin.com/in/youssef-pasha-95aaba187/)
 [<img align="left" alt="Youssef | Facebook"  src="https://img.icons8.com/color/22/000000/facebook-new.png"/>](https://www.facebook.com/PashaMessages)
