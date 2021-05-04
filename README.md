@@ -16,7 +16,7 @@
 
   <div align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YoussefPasha" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YoussefPasha&v=2" >
   </a>
   </div>
 
