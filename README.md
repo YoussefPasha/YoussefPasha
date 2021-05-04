@@ -15,8 +15,11 @@
     </div>
 
   <div align="center">
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YoussefPasha&v=2" >
+    <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefPasha&repo=github-readme-stats" />
+  </a>
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefPasha&repo=convoychat" />
   </a>
   </div>
 
