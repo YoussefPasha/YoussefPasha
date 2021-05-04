@@ -16,7 +16,7 @@
 
   <div align="center">
     <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=YoussefPasha&show_icons=true&theme=dark&locale=en&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=YoussefPasha" />
   </a>
   </div>
 
