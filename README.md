@@ -4,6 +4,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YoussefPasha&theme=onedark" alt="YoussefPasha" /></a> </p>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YoussefPasha)](https://github.com/anuraghazra/github-readme-stats)
+
+
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
