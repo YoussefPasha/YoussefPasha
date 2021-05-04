@@ -16,10 +16,10 @@
 
   <div align="center">
     <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefPasha&repo=github-readme-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefPasha&repo=e-commerce_react.ts_django" />
   </a>
   <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefPasha&repo=convoychat" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefPasha&repo=e-commerce_react.ts_django" />
   </a>
   </div>
 
