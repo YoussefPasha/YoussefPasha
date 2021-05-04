@@ -16,10 +16,7 @@
 
   <div align="center">
     <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefPasha&repo=e-commerce_react.ts_django" />
-  </a>
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefPasha&repo=e-commerce_react.ts_django" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=YoussefPasha&repo=e-commerce_react.ts_django" />
   </a>
   </div>
 
