@@ -12,14 +12,14 @@
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefPasha&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=dark&line_height=40" />
     </a>
-  
+    </div>
+
   <div align="center">
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YoussefPasha" >
   </a>
-</div>
-
   </div>
+
   <div align="center">
      </br></br>
     <a href="">
