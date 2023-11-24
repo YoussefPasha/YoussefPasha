@@ -6,9 +6,13 @@
     <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=YoussefPasha&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
   </a>
 </p>
+<div align="center">
+  
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssefpasha/)
 [![Resume](https://img.shields.io/badge/-Resume-red)](https://drive.google.com/file/d/1cYEmQLxg30zhKwxusGUtaAu70m10UKl4/view?usp=sharing)  
+
+</div>
 
 <div align="center">
   
