@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Youssef Pasha</h1>  
-</a>
 <h3 align="center">Software Engineer from Egypt</h3>
+
+<p align="center">
+  <a href="https://github.com/MahmoudMehisen/github-widgetbox">
+    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=YoussefPasha&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
+  </a>
+</p>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssefpasha/)
 [![Resume](https://img.shields.io/badge/-Resume-red)](https://drive.google.com/file/d/1cYEmQLxg30zhKwxusGUtaAu70m10UKl4/view?usp=sharing)  
-<div align="center">
-<div align="center">
 
+<div align="center">
+  
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
@@ -56,5 +62,5 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)&nbsp;
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)&nbsp;
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)&nbsp;
-
+</div>
 
