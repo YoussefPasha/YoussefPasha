@@ -71,10 +71,7 @@
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)&nbsp;
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)&nbsp;
 
-<div align="center">
-  
 <h1 align="center"> Contact 🚀</h2>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssefpasha/)
 [![Resume](https://img.shields.io/badge/-Resume-red)](https://drive.google.com/file/d/1cYEmQLxg30zhKwxusGUtaAu70m10UKl4/view?usp=sharing)  
-</div>
 
