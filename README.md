@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Pasha</h1>  
-<div align="center">
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssefpasha/)
   [![Resume](https://img.shields.io/badge/-Resume-red)](https://drive.google.com/file/d/1cYEmQLxg30zhKwxusGUtaAu70m10UKl4/view?usp=sharing)  
-</div>
 </a>
 <h3 align="center">Software Engineer from Egypt</h3>
   <h2 align="center"> Github Statistics 📈 </h2>
