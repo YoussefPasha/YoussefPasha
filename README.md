@@ -1,21 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Pasha</h1>  
 </a>
 <h3 align="center">Software Engineer from Egypt</h3>
-  <h2 align="center"> Github Statistics 📈 </h2>
-  <div align="center"> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefPasha&" alt="YoussefPasha" /></p>
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefPasha&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=dark&line_height=40" />
-    </a>
-    </div>
-
-  <div align="center">
-     </br></br>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefPasha&show_icons=true&theme=dark&locale=en&layout=compact"/>
-    </a>
-</div
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssefpasha/)
 [![Resume](https://img.shields.io/badge/-Resume-red)](https://drive.google.com/file/d/1cYEmQLxg30zhKwxusGUtaAu70m10UKl4/view?usp=sharing)  
 <div align="center">
