@@ -16,7 +16,6 @@
     </a>
 </div
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssefpasha/)
 [![Resume](https://img.shields.io/badge/-Resume-red)](https://drive.google.com/file/d/1cYEmQLxg30zhKwxusGUtaAu70m10UKl4/view?usp=sharing)  
 
