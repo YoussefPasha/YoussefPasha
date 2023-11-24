@@ -74,10 +74,7 @@
 <div align="center">
   
 <h1 align="center"> Contact 🚀</h2>
-[<img align="left" alt="Youssef | email" src="https://img.icons8.com/fluent/22/000000/gmail.png" />](mailto:youssefbashafcis@gmail.com)
-[<img align="left" alt="Youssef | Linkedin" src="https://img.icons8.com/fluent/22/000000/linkedin.png"/>](https://www.linkedin.com/in/youssef-pasha-95aaba187/)
-[<img align="left" alt="Youssef | Facebook"  src="https://img.icons8.com/color/22/000000/facebook-new.png"/>](https://www.facebook.com/PashaMessages)
-[<img align="left" alt="Youssef | twitter"   src="https://img.icons8.com/fluent/22/000000/twitter.png"/>](https://twitter.com/YoussefPasha8)
-  
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssefpasha/)
+[![Resume](https://img.shields.io/badge/-Resume-red)](https://drive.google.com/file/d/1cYEmQLxg30zhKwxusGUtaAu70m10UKl4/view?usp=sharing)  
 </div>
 
