@@ -7,6 +7,8 @@ I’m a Senior Software Developer with a passion for crafting dynamic, scalable,
 ### Frontend
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
 - **Frameworks:** React, Next.js, Vue.js, Angular
+- #*State Management:**Redux(RTK, Thunk), RXJS, Zustand
+- #*CSS:**Tailwindcss, shadcn/ui, Styled components
 
 ### Backend
 - **Languages:** JavaScript (Node.js)
