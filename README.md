@@ -10,7 +10,7 @@ I’m a Senior Software Developer with a passion for crafting dynamic, scalable,
 
 ### Backend
 - **Languages:** JavaScript (Node.js)
-- **Frameworks:** Nest.js, Express.js
+- **Frameworks:** Nest.js, Express.js, Supabase
 - **Database:** PostgreSQL, MongoDB, Redis
 - **APIs:** REST, GraphQL, JSON API, WebSockets
 
