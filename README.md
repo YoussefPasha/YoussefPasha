@@ -24,7 +24,7 @@ I’m a Senior Software Developer with a passion for crafting dynamic, scalable,
 ## 🤝 Let's Connect
 
 - LinkedIn: [Youssef Pasha](https://www.linkedin.com/in/youssefpasha)
-- Email: [mh.youssefbashafcis@gmail.com](mh.youssefbashafcis@gmail.com)
+- Email: [youssefbashafcis@gmail.com](youssefbashafcis@gmail.com)
 
 Feel free to reach out if you want to collaborate on a project, or if you just want to chat about tech, code, or anything in between!
 
