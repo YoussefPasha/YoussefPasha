@@ -10,6 +10,9 @@ I’m a Senior Software Developer with a passion for crafting dynamic, scalable,
 - **State Management:** Redux(RTK, Thunk), RXJS, Zustand
 - **CSS:** Tailwindcss, shadcn/ui, Styled components
 
+### Mobile
+- **Frameworks:** React Native, Expo
+
 ### Backend
 - **Languages:** JavaScript (Node.js)
 - **Frameworks:** Nest.js, Express.js, Supabase
