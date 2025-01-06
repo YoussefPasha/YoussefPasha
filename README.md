@@ -3,7 +3,7 @@
 **<span style="color:#333;">Senior Software Developer with a passion for crafting scalable web applications</span>**
 
 I specialize in building robust **Frontend** with React (Next.js, Gatsby, Remix) and Angular and engaging **Backends** with Node.js.  
-With over **4 years of experience**, I have developed projects across various domains including:  
+With over **5+ years of experience**, I have developed projects across various domains including:  
 ✨ E-commerce, 📚 Educational, 🌐 SaaS, 💰 Fintech, 🏢 Proptech, and more.
 
 ---
