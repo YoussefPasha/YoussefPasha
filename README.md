@@ -21,6 +21,8 @@ With over **5+ years of experience**, I have developed projects across various d
 - **Frameworks:** `Nest.js`, `Express.js`, `Supabase`
 - **Database:** `PostgreSQL`, `MongoDB`, `Redis`
 - **APIs:** `REST`, `GraphQL`, `JSON API`, `WebSockets`
+- **ORMs:** `TypeORM`, `Sequelize`, `Prisma`, `MikroORM`
+- **ODMs:** `Mongoose`
 
 ### 📱 Mobile
 - **Frameworks:** `React Native`, `Expo`
