@@ -16,14 +16,14 @@ With over **5+ years of experience**, I have developed projects across various d
 - **State Management:** `Redux (RTK, Thunk)`, `RXJS`, `Zustand`
 - **CSS:** `TailwindCSS`, `shadcn/ui`, `Styled Components`
 
-### 📱 Mobile
-- **Frameworks:** `React Native`, `Expo`
-
 ### 🔧 Backend
 - **Languages:** `JavaScript (Node.js)`
 - **Frameworks:** `Nest.js`, `Express.js`, `Supabase`
 - **Database:** `PostgreSQL`, `MongoDB`, `Redis`
 - **APIs:** `REST`, `GraphQL`, `JSON API`, `WebSockets`
+
+### 📱 Mobile
+- **Frameworks:** `React Native`, `Expo`
 
 ### 🚀 DevOps & Tools
 - **Containerization:** `Docker`, `Kubernetes`
